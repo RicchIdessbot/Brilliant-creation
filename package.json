@@ -1,0 +1,16 @@
+{
+  "name": "ultra-music-telegram-bot",
+  "version": "1.0.0",
+  "description": "Ultra Telegram Music Bot with inline UI and song search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
